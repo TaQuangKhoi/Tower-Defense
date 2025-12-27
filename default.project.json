@@ -81,6 +81,13 @@
       "$properties": {
         "RespectFilteringEnabled": true
       }
+    },
+    "TextChatService": {
+      "$properties": {
+        "ChatVersion": "TextChatService",
+        "CreateDefaultCommands": true,
+        "CreateDefaultTextChannels": true
+      }
     }
   }
 }
