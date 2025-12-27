@@ -1,0 +1,86 @@
+{
+  "name": "Tower-Defense",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "src/shared"
+      },
+      "Remotes": {
+        "$className": "Folder",
+        "ProgressUpdated": {
+          "$className": "RemoteEvent"
+        },
+        "CoinsUpdated": {
+          "$className": "RemoteEvent"
+        },
+        "CheckpointReached": {
+          "$className": "RemoteEvent"
+        },
+        "ItemPurchased": {
+          "$className": "RemoteEvent"
+        },
+        "DataLoaded": {
+          "$className": "RemoteEvent"
+        },
+        "PurchaseRequest": {
+          "$className": "RemoteEvent"
+        },
+        "UseItem": {
+          "$className": "RemoteEvent"
+        }
+      }
+    },
+
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/server"
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/client"
+        }
+      }
+    },
+
+    "Workspace": {
+      "$properties": {
+        "FilteringEnabled": true
+      },
+      "Environment": {
+        "$path": "config/workspace/environment.project.json"
+      },
+      "Checkpoints": {
+        "$path": "config/workspace/checkpoints.project.json"
+      },
+      "Coins": {
+        "$path": "config/workspace/coins.project.json"
+      },
+      "Obstacles": {
+        "$path": "config/workspace/obstacles.project.json"
+      }
+    },
+    "Lighting": {
+      "$properties": {
+        "Ambient": [
+          0,
+          0,
+          0
+        ],
+        "Brightness": 2,
+        "GlobalShadows": true,
+        "Outlines": false,
+        "Technology": "Voxel"
+      }
+    },
+    "SoundService": {
+      "$properties": {
+        "RespectFilteringEnabled": true
+      }
+    }
+  }
+}

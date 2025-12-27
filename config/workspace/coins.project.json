@@ -1,0 +1,455 @@
+{
+  "name": "Coins",
+  "tree": {
+    "$className": "Folder",
+    "CoinMoi": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Shape": "Ball",
+      "Color": [
+        1,
+        0.8,
+        0
+      ],
+      "Position": [
+        -5,
+        2,
+        10
+      ],
+      "Size": [
+        2,
+        2,
+        2
+      ],
+      "CanCollide": false,
+      "Material": "Neon",
+      "Attributes": {
+        "CoinValue": { "Int32": 10 }
+      },
+      "Tags": ["Coin"]
+    }
+  },
+"Coin1": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Shape": "Ball",
+      "Color": [
+        1,
+        0.8,
+        0
+      ],
+      "Position": [
+        -5,
+        2,
+        10
+      ],
+      "Size": [
+        2,
+        2,
+        2
+      ],
+      "CanCollide": false,
+      "Material": "Neon",
+      "Attributes": {
+        "CoinValue": { "Int32": 10 }
+      },
+      "Tags": ["Coin"]
+    }
+  },
+  "Coin2": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Shape": "Ball",
+      "Color": [
+        1,
+        0.8,
+        0
+      ],
+      "Position": [
+        5,
+        2,
+        10
+      ],
+      "Size": [
+        2,
+        2,
+        2
+      ],
+      "CanCollide": false,
+      "Material": "Neon",
+      "Attributes": {
+        "CoinValue": { "Int32": 10 }
+      },
+      "Tags": ["Coin"]
+    }
+  },
+  "Coin3": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Shape": "Ball",
+      "Color": [
+        1,
+        0.8,
+        0
+      ],
+      "Position": [
+        0,
+        2,
+        30
+      ],
+      "Size": [
+        2,
+        2,
+        2
+      ],
+      "CanCollide": false,
+      "Material": "Neon",
+      "Attributes": {
+        "CoinValue": { "Int32": 10 }
+      },
+      "Tags": ["Coin"]
+    }
+  },
+  "Coin4": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Shape": "Ball",
+      "Color": [
+        1,
+        0.8,
+        0
+      ],
+      "Position": [
+        -5,
+        2,
+        50
+      ],
+      "Size": [
+        2,
+        2,
+        2
+      ],
+      "CanCollide": false,
+      "Material": "Neon",
+      "Attributes": {
+        "CoinValue": { "Int32": 10 }
+      },
+      "Tags": ["Coin"]
+    }
+  },
+  "Coin5": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Shape": "Ball",
+      "Color": [
+        1,
+        0.8,
+        0
+      ],
+      "Position": [
+        5,
+        2,
+        50
+      ],
+      "Size": [
+        2,
+        2,
+        2
+      ],
+      "CanCollide": false,
+      "Material": "Neon",
+      "Attributes": {
+        "CoinValue": { "Int32": 10 }
+      },
+      "Tags": ["Coin"]
+    }
+  },
+  "Coin6": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Shape": "Ball",
+      "Color": [
+        1,
+        0.8,
+        0
+      ],
+      "Position": [
+        -5,
+        2,
+        70
+      ],
+      "Size": [
+        2,
+        2,
+        2
+      ],
+      "CanCollide": false,
+      "Material": "Neon",
+      "Attributes": {
+        "CoinValue": { "Int32": 10 }
+      },
+      "Tags": ["Coin"]
+    }
+  },
+  "Coin7": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Shape": "Ball",
+      "Color": [
+        1,
+        0.8,
+        0
+      ],
+      "Position": [
+        5,
+        2,
+        70
+      ],
+      "Size": [
+        2,
+        2,
+        2
+      ],
+      "CanCollide": false,
+      "Material": "Neon",
+      "Attributes": {
+        "CoinValue": { "Int32": 10 }
+      },
+      "Tags": ["Coin"]
+    }
+  },
+  "Coin8": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Shape": "Ball",
+      "Color": [
+        1,
+        0.8,
+        0
+      ],
+      "Position": [
+        0,
+        2,
+        90
+      ],
+      "Size": [
+        2,
+        2,
+        2
+      ],
+      "CanCollide": false,
+      "Material": "Neon",
+      "Attributes": {
+        "CoinValue": { "Int32": 10 }
+      },
+      "Tags": ["Coin"]
+    }
+  },
+  "Coin9": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Shape": "Ball",
+      "Color": [
+        1,
+        0.8,
+        0
+      ],
+      "Position": [
+        -5,
+        3,
+        110
+      ],
+      "Size": [
+        2,
+        2,
+        2
+      ],
+      "CanCollide": false,
+      "Material": "Neon",
+      "Attributes": {
+        "CoinValue": { "Int32": 15 }
+      },
+      "Tags": ["Coin"]
+    }
+  },
+  "Coin10": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Shape": "Ball",
+      "Color": [
+        1,
+        0.8,
+        0
+      ],
+      "Position": [
+        5,
+        3,
+        110
+      ],
+      "Size": [
+        2,
+        2,
+        2
+      ],
+      "CanCollide": false,
+      "Material": "Neon",
+      "Attributes": {
+        "CoinValue": { "Int32": 15 }
+      },
+      "Tags": ["Coin"]
+    }
+  },
+  "Coin11": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Shape": "Ball",
+      "Color": [
+        1,
+        0.8,
+        0
+      ],
+      "Position": [
+        0,
+        3,
+        130
+      ],
+      "Size": [
+        2,
+        2,
+        2
+      ],
+      "CanCollide": false,
+      "Material": "Neon",
+      "Attributes": {
+        "CoinValue": { "Int32": 15 }
+      },
+      "Tags": ["Coin"]
+    }
+  },
+  "Coin12": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Shape": "Ball",
+      "Color": [
+        1,
+        0.8,
+        0
+      ],
+      "Position": [
+        -5,
+        4,
+        150
+      ],
+      "Size": [
+        2,
+        2,
+        2
+      ],
+      "CanCollide": false,
+      "Material": "Neon",
+      "Attributes": {
+        "CoinValue": { "Int32": 20 }
+      },
+      "Tags": ["Coin"]
+    }
+  },
+  "Coin13": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Shape": "Ball",
+      "Color": [
+        1,
+        0.8,
+        0
+      ],
+      "Position": [
+        5,
+        4,
+        150
+      ],
+      "Size": [
+        2,
+        2,
+        2
+      ],
+      "CanCollide": false,
+      "Material": "Neon",
+      "Attributes": {
+        "CoinValue": { "Int32": 20 }
+      },
+      "Tags": ["Coin"]
+    }
+  },
+  "Coin14": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Shape": "Ball",
+      "Color": [
+        1,
+        0.8,
+        0
+      ],
+      "Position": [
+        0,
+        4,
+        170
+      ],
+      "Size": [
+        2,
+        2,
+        2
+      ],
+      "CanCollide": false,
+      "Material": "Neon",
+      "Attributes": {
+        "CoinValue": { "Int32": 20 }
+      },
+      "Tags": ["Coin"]
+    }
+  },
+  "Coin15": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Shape": "Ball",
+      "Color": [
+        1,
+        0.8,
+        0
+      ],
+      "Position": [
+        0,
+        5,
+        190
+      ],
+      "Size": [
+        3,
+        3,
+        3
+      ],
+      "CanCollide": false,
+      "Material": "Neon",
+      "Attributes": {
+        "CoinValue": { "Int32": 50 }
+      },
+      "Tags": ["Coin"]
+    }
+  }
+  }
+
+}

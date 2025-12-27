@@ -1,0 +1,258 @@
+{
+  "name": "Obstacles",
+  "tree": {
+    "$className": "Folder",
+    "Obstacle1": {
+      "$className": "Part",
+      "$properties": {
+        "Anchored": true,
+      "Color": [
+        0.639216,
+        0.635294,
+        0.647059
+      ],
+      "Position": [
+        0,
+        2,
+        15
+      ],
+      "Size": [
+        4,
+        3,
+        1
+      ]
+    }
+  },
+  "Obstacle2": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Color": [
+        0.639216,
+        0.635294,
+        0.647059
+      ],
+      "Position": [
+        0,
+        2,
+        35
+      ],
+      "Size": [
+        4,
+        3,
+        1
+      ]
+    }
+  },
+  "Obstacle3": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Color": [
+        0.639216,
+        0.635294,
+        0.647059
+      ],
+      "Position": [
+        0,
+        2,
+        55
+      ],
+      "Size": [
+        4,
+        3,
+        1
+      ]
+    }
+  },
+  "Obstacle4": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Color": [
+        0.639216,
+        0.635294,
+        0.647059
+      ],
+      "Position": [
+        -3,
+        2,
+        75
+      ],
+      "Size": [
+        2,
+        4,
+        2
+      ]
+    }
+  },
+  "Obstacle5": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Color": [
+        0.639216,
+        0.635294,
+        0.647059
+      ],
+      "Position": [
+        3,
+        2,
+        75
+      ],
+      "Size": [
+        2,
+        4,
+        2
+      ]
+    }
+  },
+  "Obstacle6": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Color": [
+        0.639216,
+        0.635294,
+        0.647059
+      ],
+      "Position": [
+        0,
+        3,
+        95
+      ],
+      "Size": [
+        6,
+        2,
+        1
+      ]
+    }
+  },
+  "Obstacle7": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Color": [
+        0.639216,
+        0.635294,
+        0.647059
+      ],
+      "Position": [
+        -4,
+        2,
+        115
+      ],
+      "Size": [
+        3,
+        5,
+        1
+      ]
+    }
+  },
+  "Obstacle8": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Color": [
+        0.639216,
+        0.635294,
+        0.647059
+      ],
+      "Position": [
+        4,
+        2,
+        115
+      ],
+      "Size": [
+        3,
+        5,
+        1
+      ]
+    }
+  },
+  "Obstacle9": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Color": [
+        0.639216,
+        0.635294,
+        0.647059
+      ],
+      "Position": [
+        0,
+        3,
+        135
+      ],
+      "Size": [
+        8,
+        2,
+        2
+      ]
+    }
+  },
+  "Obstacle10": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Color": [
+        0.639216,
+        0.635294,
+        0.647059
+      ],
+      "Position": [
+        -5,
+        3,
+        155
+      ],
+      "Size": [
+        2,
+        6,
+        2
+      ]
+    }
+  },
+  "Obstacle11": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Color": [
+        0.639216,
+        0.635294,
+        0.647059
+      ],
+      "Position": [
+        5,
+        3,
+        155
+      ],
+      "Size": [
+        2,
+        6,
+        2
+      ]
+    }
+  },
+  "Obstacle12": {
+    "$className": "Part",
+    "$properties": {
+      "Anchored": true,
+      "Color": [
+        0.639216,
+        0.635294,
+        0.647059
+      ],
+      "Position": [
+        0,
+        4,
+        175
+      ],
+      "Size": [
+        10,
+        3,
+        2
+      ]
+    }
+  }
+}
+}

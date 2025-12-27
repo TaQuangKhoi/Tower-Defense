@@ -1,0 +1,249 @@
+{
+  "name": "Checkpoints",
+  "tree": {
+    "$className": "Folder",
+    "Checkpoint1": {
+      "$className": "Part",
+      "$properties": {
+        "Anchored": true,
+        "Color": [
+          0.8,
+          0.2,
+          0.2
+        ],
+        "Position": [
+          0,
+          0.5,
+          20
+        ],
+        "Size": [
+          8,
+          1,
+          8
+        ],
+        "Transparency": 0.3,
+        "CanCollide": false,
+        "Attributes": {
+          "StageIndex": { "Int32": 2 }
+        },
+        "Tags": ["Checkpoint"]
+      }
+    },
+    "Checkpoint2": {
+      "$className": "Part",
+      "$properties": {
+        "Anchored": true,
+        "Color": [
+          0.8,
+          0.2,
+          0.2
+        ],
+        "Position": [
+          0,
+          0.5,
+          40
+        ],
+        "Size": [
+          8,
+          1,
+          8
+        ],
+        "Transparency": 0.3,
+        "CanCollide": false,
+        "Attributes": {
+          "StageIndex": { "Int32": 3 }
+        },
+        "Tags": ["Checkpoint"]
+      }
+    },
+    "Checkpoint3": {
+      "$className": "Part",
+      "$properties": {
+        "Anchored": true,
+        "Color": [
+          0.8,
+          0.2,
+          0.2
+        ],
+        "Position": [
+          0,
+          0.5,
+          60
+        ],
+        "Size": [
+          8,
+          1,
+          8
+        ],
+        "Transparency": 0.3,
+        "CanCollide": false,
+        "Attributes": {
+          "StageIndex": { "Int32": 4 }
+        },
+        "Tags": ["Checkpoint"]
+      }
+    },
+    "Checkpoint4": {
+      "$className": "Part",
+      "$properties": {
+        "Anchored": true,
+        "Color": [
+          0.8,
+          0.2,
+          0.2
+        ],
+        "Position": [
+          0,
+          0.5,
+          80
+        ],
+        "Size": [
+          8,
+          1,
+          8
+        ],
+        "Transparency": 0.3,
+        "CanCollide": false,
+        "Attributes": {
+          "StageIndex": { "Int32": 5 }
+        },
+        "Tags": ["Checkpoint"]
+      }
+    },
+    "Checkpoint5": {
+      "$className": "Part",
+      "$properties": {
+        "Anchored": true,
+        "Color": [
+          0.8,
+          0.2,
+          0.2
+        ],
+        "Position": [
+          0,
+          0.5,
+          100
+        ],
+        "Size": [
+          8,
+          1,
+          8
+        ],
+        "Transparency": 0.3,
+        "CanCollide": false,
+        "Attributes": {
+          "StageIndex": { "Int32": 6 }
+        },
+        "Tags": ["Checkpoint"]
+      }
+    },
+    "Checkpoint6": {
+      "$className": "Part",
+      "$properties": {
+        "Anchored": true,
+        "Color": [
+          0.8,
+          0.2,
+          0.2
+        ],
+        "Position": [
+          0,
+          0.5,
+          120
+        ],
+        "Size": [
+          8,
+          1,
+          8
+        ],
+        "Transparency": 0.3,
+        "CanCollide": false,
+        "Attributes": {
+          "StageIndex": { "Int32": 7 }
+        },
+        "Tags": ["Checkpoint"]
+      }
+    },
+    "Checkpoint7": {
+      "$className": "Part",
+      "$properties": {
+        "Anchored": true,
+        "Color": [
+          0.8,
+          0.2,
+          0.2
+        ],
+        "Position": [
+          0,
+          0.5,
+          140
+        ],
+        "Size": [
+          8,
+          1,
+          8
+        ],
+        "Transparency": 0.3,
+        "CanCollide": false,
+        "Attributes": {
+          "StageIndex": { "Int32": 8 }
+        },
+        "Tags": ["Checkpoint"]
+      }
+    },
+    "Checkpoint8": {
+      "$className": "Part",
+      "$properties": {
+        "Anchored": true,
+        "Color": [
+          0.8,
+          0.2,
+          0.2
+        ],
+        "Position": [
+          0,
+          0.5,
+          160
+        ],
+        "Size": [
+          8,
+          1,
+          8
+        ],
+        "Transparency": 0.3,
+        "CanCollide": false,
+        "Attributes": {
+          "StageIndex": { "Int32": 9 }
+        },
+        "Tags": ["Checkpoint"]
+      }
+    },
+    "Checkpoint9": {
+      "$className": "Part",
+      "$properties": {
+        "Anchored": true,
+        "Color": [
+          0.8,
+          0.2,
+          0.2
+        ],
+        "Position": [
+          0,
+          0.5,
+          180
+        ],
+        "Size": [
+          8,
+          1,
+          8
+        ],
+        "Transparency": 0.3,
+        "CanCollide": false,
+        "Attributes": {
+          "StageIndex": { "Int32": 10 }
+        },
+        "Tags": ["Checkpoint"]
+      }
+    }
+  }
+}
